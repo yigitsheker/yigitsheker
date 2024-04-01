@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @yigitsheker
 - 👀 I’m interested in Coding, Learning, F1, Football, Basketball, Chess
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on ...
 - 📫 E-Mail: yigit69seker54@gmail.com
 
 
