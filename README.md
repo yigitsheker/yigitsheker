@@ -5,13 +5,12 @@ Ben Sakarya Üniversitesi Yazılım Mühendisliği 2. sınıf öğrencisiyim ve 
 Kod yazmayı, projeler üretmeyi ve yeni teknolojiler öğrenmeyi çok seviyorum. Özellikle yapay zeka, görüntü işleme ve yazılım mimarilerine özel bir ilgim var.
 
 ### Şu anda:
-- Teknofest 2025'te havacılıkta yapay zeka yarışması için proje geliştiriyorum ✈
-- Uçan araçlar için görüntü tabanlı analiz sistemleri üzerine çalışıyorum.
-- Mental sağlık destekli bir chatbot projesi geliştiriyorum 🧠💬
+- Teknofest 2025'te havacılıkta yapay zeka yarışması için proje geliştiriyorum 
+- Aktif olarak Web Teknolojileri hakkında eğitim alıyorum
 - IEEE etkinliklerinde aktif olarak görev alıyorum.
 
 ### İlgi Alanlarım & Teknolojiler
-- Python, JavaScript, C++, C#
+- Python, C++, C#
 - Web geliştirme (.Net Core, Java)
 - Yapay Zeka ve Görüntü İşleme
 - Proje yönetimi ve topluluk liderliği
@@ -30,12 +29,12 @@ I'm a 2nd-year Software Engineering student at Sakarya University and currently 
 I love coding, building impactful projects, and exploring new technologies — especially in the fields of artificial intelligence, computer vision, and software architecture.
 
 ### Currently:
-- Working on an AI-based project for Teknofest 2025 focused on aerial vehicle vision systems ✈️🤖
-- Developing a mental health support chatbot with a team of 4 🧠💬
+- Working on an AI-based project for Teknofest 2025 focused on aerial vehicle vision systems 
+- I am currently undergoing training in Web Technologies.
 - Actively organizing events and tech activities within IEEE
 
 ### Interests & Technologies
-- Python, JavaScript
+- Python, C++, C#
 - Web development (.Net Core, Java)
 - Artificial Intelligence & Computer Vision
 - Project management and community leadership
