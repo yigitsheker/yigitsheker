@@ -23,7 +23,7 @@ Kod yazmayı, projeler üretmeyi ve yeni teknolojiler öğrenmeyi çok seviyorum
 > “Someone who is desprate to make a mark and is prepared to die trying” 
 
 
-# Hi there! I'm [Your Name]
+# Hi there! I'm Yiğit ŞEKER
 
 I'm a 2nd-year Software Engineering student at Sakarya University and currently serving as the president of IEEE Sakarya Student Branch IEEE Computer Society Committee.
 
@@ -44,4 +44,5 @@ I love coding, building impactful projects, and exploring new technologies — e
 - LinkedIn: (https://www.linkedin.com/in/yi%C4%9Fit-%C5%9Feker-19658a267/)
 - E-posta: yigit69seker54@gmail.com
 
-> “Keep learning, keep building, keep sharing.” 🌱
+
+> “Someone who is desprate to make a mark and is prepared to die trying” 
